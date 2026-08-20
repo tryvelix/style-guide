@@ -19,3 +19,6 @@ The guidelines and documentation here are licensed under
 The Velix logo, wordmark, and name are **not** covered by that licence. They
 are trademarks and remain all rights reserved — see [TRADEMARKS.md](TRADEMARKS.md)
 before using them.
+
+The logo assets carry their own licence note — see
+[assets/logo/LICENSE.md](assets/logo/LICENSE.md).
